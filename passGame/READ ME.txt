@@ -1,0 +1,32 @@
+README
+
+Version 1 of the complete program. 
+All functions work properly. 
+
+Instructions!!
+
+1. Type your phrase into the “Enter a Strong Password” Field
+2. Click test your security to see who gets the point
+
+Optional: generate a password based off your phrase
+
+3. Enter as many or little phrases as you’d like. Only the first 15 will be saved.
+4. Play what would you do game with password to earn points
+5. When you’re all done open password manager
+
+6. Start by loading your phrase File
+7. Scroll around to make sure everything loads properly
+
+8. Combine elements to make a new password based off the user interface
+9. Click generate password to see if all come together
+10. Save all your passwords 
+
+(All passwords are saved into the hashed.dat file in program directory)
+
+11. Run the hashes and then click between to see all the passwords you made!!
+
+
+
+
+******
+To be done, add alerts and other fun UI elements in final phase!!!
